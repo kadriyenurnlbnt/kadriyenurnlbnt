@@ -5,7 +5,7 @@ Web sayfamı da ziyaret edebilirsiniz. https://nurnlbnt.com
 
 <p align='center'>
  
-  <a href="https://https://www.linkedin.com/in/kadriye-nur-nalbant/">
+  <a href="https://www.linkedin.com/in/kadriye-nur-nalbant/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/kadriyenur.nlbnt">
