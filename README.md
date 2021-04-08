@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+❤️Linux<br/>
+😍Web dizayn<br/>
+Web sayfamı da ziyaret edebilirsiniz. https://nurnlbnt.com 
 
 <!--
 **kadriyenurnlbnt/kadriyenurnlbnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
