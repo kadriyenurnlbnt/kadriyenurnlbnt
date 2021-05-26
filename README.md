@@ -1,6 +1,7 @@
 ### 
 ❤️Linux<br/>
 😍Web dizayn<br/>
+⚡JavaSpring web developer<br/>
 Web sayfamı da ziyaret edebilirsiniz. https://nurnlbnt.com 
 
 <p align='center'>
